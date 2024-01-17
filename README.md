@@ -16,7 +16,7 @@
 ## Introduction
 #### Customer Behavior Analysis is the process of examining how customers interact with a product, service, or platform to understand their actions, preferences, and decision-making processes.This report presents a detailed analysis of the E-Commerce dataset, covering demographic insights, purchase behavior, and specific analyses such as conversion rates and churn rates.
 ## Overview
-#### This E-Commerce Data Analysis project aims to gain valuable insights into customer behavior and purchasing patterns within e-commerce platform. By analyzing demographic information, purchase behavior, and key performance indicators, I seek to uncover trends that can inform strategic decision-making and enhance the overall customer experience. Below are the processes I follow for this task.
+#### This E-Commerce Data Analysis project aims to gain valuable insights into customer behavior and purchasing patterns within e-commerce platform. By analyzing demographic information, purchase behavior, I seek to uncover trends that can inform strategic decision-making and enhance the overall customer experience. Below are the processes I follow for this task.
 ## Data collection/Cleaning
 #### For this analysis I used the dataset available on statso.To address data inconsistencies, missing values, and to ensure the data’s quality and accuracy I used Excel.
 ## Libraries Used
