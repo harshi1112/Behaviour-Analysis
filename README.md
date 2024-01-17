@@ -25,23 +25,23 @@
 #### Seaborn
 #### Numpy
 ## Loading and Exploring the Dataset
-#### Summary of Numeric Data-Provide an overview of key statistics for numeric columns in the dataset.
-#### Summary of Non-Numeric Data-Summarize key information about non-numeric columns, including unique values and data types.
+#### Summary of Numeric Data-Provided an overview of key statistics for numeric columns in the dataset.
+#### Summary of Non-Numeric Data-Summarized key information about non-numeric columns, including unique values and data types.
 ## Demographic Analysis
-#### Gender Distribution-Visualize the distribution of customers based on gender using barplot.
-#### Age Distribution -Explore and present insights into the age distribution of customers using histogram. This is important to identify the age groups that are most active or contribute significantly to purchases.
+#### Gender Distribution-Visualized the distribution of customers based on gender using barplot.
+#### Age Distribution -Explored and presented insights into the age distribution of customers using histogram. This is important to identify the age groups that are most active or contribute significantly to purchases.
 ## Purchase Behavior Analysis
-#### Location-wise Purchases-Analyze purchases made based on customer locations using barplot. Insights into demographic and behavior analysis can inform targeted marketing campaigns, improving the efficiency of marketing budgets by identifying regions with a high concentration of purchases and explored whether location correlates with purchasing behavior.
+#### Location-wise Purchases-Analyze purchases made based on customer locations using barplot. Insights into demographic and behavior analysis can inform target marketing campaigns, improving the efficiency of marketing budgets by identifying regions with a high concentration of purchases and explored whether location correlates with purchasing behavior. In this analysis i've found the location where most purchases are being done.
 ## Device Usage Analysis
-#### Examine the distribution of device types used by customers using barplot.To check if there are patterns related to device preferences and behavior.
+#### Examine the distribution of device types used by customers using barplot.To check if there are patterns related to device preferences and actions, but didn't find any particular device that got preference over other.
 ## Behavior Analysis
-#### Present insights into customer behavior, including average product browsing time, total pages viewed, and items added to cart using scatterplot.Understanding product browsing time, total pages viewed, and items added to the cart can contribute to enhancing the overall user experience on the platform.
+#### Present insights into customer behavior, including average product browsing time, total pages viewed, and items added to cart using scatterplot.Understanding product browsing time, total pages viewed, and items added to the cart can contribute to enhancing the overall user experience on the platform.Surprisingly there was no consistent pattern or relation I've found between these.Even if customer spending more time browsing they are not necessarily exploring more pages.
 ## Gender-based Analysis
-#### Explored and compared average purchases made by different genders using barplot.
+#### Explored and compared average purchases made by different genders using barplot. Average purchase made by male is more than that by female.
 ## Conversion Rate Analysis
 #### Calculated and discussed conversion rates based on the number of items added to the cart.
 ## Churn Rate Analysis
-#### Explored and calculated churn rates based on the provided dataset.Understanding churn rates can be crucial for developing strategies to retain customers and improve long-term customer loyalty.
+#### Explored and calculated churn rates based on the dataset. I've churn sum as 99 which indicate that there are 99 customers in the dataset who have not made any purchases and  churm mean 0.198 which represents the proportion of customers who have churned out of the total number of customers in the dataset. In other words, approximately 19.8% of the customers have not made any purchases.Understanding churn rates can be crucial for developing strategies to retain customers, improve long-term customer loyalty and increase profitability.
 ## Conclusion
-#### This analysis has shed light on crucial aspects of e-commerce business. Demographic insights have provided a deeper understanding of customer base, enabling targeted marketing strategies. Purchase behavior analysis has uncovered trends that can enhance product recommendations and optimize the user experience. The calculation of conversion and churn rates equips with actionable metrics to refine sales funnel and retain customers. By leveraging these insights, we can make informed decisions to address challenges and capitalize on opportunities in the competitive e-commerce landscape.
+#### This analysis has shed light on crucial aspects of e-commerce business. Demographic insights have provided a deeper understanding of customer base, enabling target marketing strategies. Purchase behavior analysis has uncovered trends by identifying the regions with high concentration of purchases. The calculation of conversion and churn rates equips with actionable metrics to refine sales funnel and retain customers. By leveraging these insights, we can make informed decisions to address challenges and capitalize on opportunities in the competitive e-commerce landscape.
 
